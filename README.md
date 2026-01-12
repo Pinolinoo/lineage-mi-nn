@@ -29,7 +29,7 @@ Contains scripts for neural network hyperparameter search and  xAI (LIME and Int
 ## Notes
 - Large intermediate result files (e.g., plots and MI result folders) are intentionally excluded from the repository via `.gitignore`.
 - For dataset availability pls get in touch with: "philipp.roth@mdc-berlin.de"
-- All code was run on a CentOS-based HPC cluster environment using GridEngine.
+- All code was run on a CentOS-based HPC cluster environment using SLURM.
 
 ---
 
