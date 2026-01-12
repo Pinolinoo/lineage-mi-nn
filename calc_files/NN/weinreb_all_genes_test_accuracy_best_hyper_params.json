@@ -1,0 +1,49 @@
+{
+    "hyperparameters": {
+        "batch_size": 128,
+        "activation_function": "swish",
+        "hidden_units": 334,
+        "dropout_rate": 0.3610821139290077,
+        "num_layers": 1,
+        "num_epochs": 6,
+        "learning_rate": 0.0010693636025791494,
+        "weight_decay": 0.0008526964257464992
+    },
+    "data_overview": {
+        "experiment": 67,
+        "number_of_genes": 22636,
+        "number_of_barcodes": 15,
+        "minimal_barcode_threshold_per_class": 95,
+        "cells": 1807
+    },
+    "training_run": {
+        "epoch_1": {
+            "training_loss": 2.274411690235138,
+            "validation_loss": 1.949748158454895
+        },
+        "epoch_2": {
+            "training_loss": 1.2753037810325623,
+            "validation_loss": 1.6592117547988892
+        },
+        "epoch_3": {
+            "training_loss": 0.5727895677089692,
+            "validation_loss": 1.514828622341156
+        },
+        "epoch_4": {
+            "training_loss": 0.15696413516998292,
+            "validation_loss": 1.3790936470031738
+        },
+        "epoch_5": {
+            "training_loss": 0.03621585909277201,
+            "validation_loss": 1.4001129865646362
+        },
+        "epoch_6": {
+            "training_loss": 0.010831573698669671,
+            "validation_loss": 1.3820067644119263
+        }
+    },
+    "training_accuracy": 100.0,
+    "validation_accuracy": 57.5,
+    "test_accuracy": 56.0,
+    "test_loss": 1.2470405101776123
+}

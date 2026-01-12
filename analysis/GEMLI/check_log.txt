@@ -1,0 +1,168 @@
+--------------------------------------------------------
+Checking dataset key: junker
+--------------------------------------------------------
+=== Checking dataset key: junker ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/junker_z5_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_junker_50_permutations.csv 
+Reading dataset pickle...
+  -> Dataset loaded successfully.
+  -> Dimensions: 6191 cells x 21063 columns
+  -> First 5 column names:
+[1] "ptpn12"     "CU856344.1" "mansc1"     "lrp6"       "dusp16"    
+
+Reading MI CSV...
+  -> MI file loaded successfully.
+  -> Dimensions: 21062 rows x 6 columns
+  -> Column names:
+[1] "gene"                        "true_mi"                    
+[3] "mean_perm_mi"                "X95_perm_mi"                
+[5] "std_perm_mi"                 "normalized_MI_label_entropy"
+
+=== OK: junker looks consistent. ===
+
+--------------------------------------------------------
+Checking dataset key: knoblich_day16_1
+--------------------------------------------------------
+=== Checking dataset key: knoblich_day16_1 ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_1_50_permutations.csv 
+Reading dataset pickle...
+  -> Dataset loaded successfully.
+  -> Dimensions: 5695 cells x 29316 columns
+  -> First 5 column names:
+[1] "MIR1302-2HG" "AL627309.1"  "AL627309.5"  "AL627309.4"  "AP006222.2" 
+
+Reading MI CSV...
+  -> MI file loaded successfully.
+  -> Dimensions: 29315 rows x 6 columns
+  -> Column names:
+[1] "gene"                        "true_mi"                    
+[3] "mean_perm_mi"                "X95_perm_mi"                
+[5] "std_perm_mi"                 "normalized_MI_label_entropy"
+
+=== OK: knoblich_day16_1 looks consistent. ===
+
+--------------------------------------------------------
+Checking dataset key: knoblich_day16_2
+--------------------------------------------------------
+=== Checking dataset key: knoblich_day16_2 ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_2_50_permutations.csv 
+Reading dataset pickle...
+  -> Dataset loaded successfully.
+  -> Dimensions: 8730 cells x 28919 columns
+  -> First 5 column names:
+[1] "MIR1302-2HG" "AL627309.1"  "AL627309.5"  "AL627309.4"  "AP006222.2" 
+
+Reading MI CSV...
+  -> MI file loaded successfully.
+  -> Dimensions: 28918 rows x 6 columns
+  -> Column names:
+[1] "gene"                        "true_mi"                    
+[3] "mean_perm_mi"                "X95_perm_mi"                
+[5] "std_perm_mi"                 "normalized_MI_label_entropy"
+
+=== OK: knoblich_day16_2 looks consistent. ===
+
+--------------------------------------------------------
+Checking dataset key: knoblich_day42_1
+--------------------------------------------------------
+=== Checking dataset key: knoblich_day42_1 ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_1_50_permutations.csv 
+Reading dataset pickle...
+  -> Dataset loaded successfully.
+  -> Dimensions: 9533 cells x 29000 columns
+  -> First 5 column names:
+[1] "MIR1302-2HG" "AL627309.1"  "AL627309.5"  "AL627309.4"  "AP006222.2" 
+
+Reading MI CSV...
+  -> MI file loaded successfully.
+  -> Dimensions: 28999 rows x 6 columns
+  -> Column names:
+[1] "gene"                        "true_mi"                    
+[3] "mean_perm_mi"                "X95_perm_mi"                
+[5] "std_perm_mi"                 "normalized_MI_label_entropy"
+
+=== OK: knoblich_day42_1 looks consistent. ===
+
+--------------------------------------------------------
+Checking dataset key: knoblich_day42_2
+--------------------------------------------------------
+=== Checking dataset key: knoblich_day42_2 ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_2_50_permutations.csv 
+Reading dataset pickle...
+  -> Dataset loaded successfully.
+  -> Dimensions: 8109 cells x 29049 columns
+  -> First 5 column names:
+[1] "MIR1302-2HG" "AL627309.1"  "AL627309.5"  "AL627309.4"  "AP006222.2" 
+
+Reading MI CSV...
+  -> MI file loaded successfully.
+  -> Dimensions: 29048 rows x 6 columns
+  -> Column names:
+[1] "gene"                        "true_mi"                    
+[3] "mean_perm_mi"                "X95_perm_mi"                
+[5] "std_perm_mi"                 "normalized_MI_label_entropy"
+
+=== OK: knoblich_day42_2 looks consistent. ===
+
+--------------------------------------------------------
+Checking dataset key: treutlein
+--------------------------------------------------------
+=== Checking dataset key: treutlein ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/treutlein_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_treutlein_50_permutations.csv 
+Reading dataset pickle...
+  -> Dataset loaded successfully.
+  -> Dimensions: 16506 cells x 20857 columns
+  -> First 5 column names:
+[1] "FO538757.2" "AP006222.2" "LINC00115"  "FAM41C"     "SAMD11"    
+
+Reading MI CSV...
+  -> MI file loaded successfully.
+  -> Dimensions: 20856 rows x 6 columns
+  -> Column names:
+[1] "gene"                        "true_mi"                    
+[3] "mean_perm_mi"                "X95_perm_mi"                
+[5] "std_perm_mi"                 "normalized_MI_label_entropy"
+
+=== OK: treutlein looks consistent. ===
+
+--------------------------------------------------------
+Checking dataset key: weinreb
+--------------------------------------------------------
+=== Checking dataset key: weinreb ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/weinreb_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_weinreb_50_permutations.csv 
+Reading dataset pickle...
+  -> Dataset loaded successfully.
+  -> Dimensions: 49302 cells x 22637 columns
+  -> First 5 column names:
+[1] "0610006L08Rik" "0610007P14Rik" "0610009B22Rik" "0610009E02Rik"
+[5] "0610009L18Rik"
+
+Reading MI CSV...
+  -> MI file loaded successfully.
+  -> Dimensions: 22636 rows x 6 columns
+  -> Column names:
+[1] "gene"                        "true_mi"                    
+[3] "mean_perm_mi"                "X95_perm_mi"                
+[5] "std_perm_mi"                 "normalized_MI_label_entropy"
+
+=== OK: weinreb looks consistent. ===
+
+--------------------------------------------------------
+Checking dataset key: you1
+--------------------------------------------------------
+=== Checking dataset key: you1 ===
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage1_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you1_50_permutations.csv 
+Reading dataset pickle...
+Error in py_call_impl(callable, call_args$unnamed, call_args$named) : 
+  _pickle.UnpicklingError: pickle data was truncated
+Run `reticulate::py_last_error()` for details.
+Calls: <Anonymous> -> py_call_impl
+Execution halted
+ERROR while checking you1 – aborting.

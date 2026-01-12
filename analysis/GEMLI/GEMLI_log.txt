@@ -1,0 +1,561 @@
+================ Dataset: junker ================
+>>> junker, iteration 1
+Running GEMLI for dataset key: junker  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/junker_z5_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_junker_50_permutations.csv 
+Original dataset dimensions: 6191 cells x 21063 columns
+Subsampled dataset dimensions: 1500 cells x 21063 columns
+Significant genes after filtering: 2663 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_junker_1500cells_iter1.csv 
+>>> junker, iteration 2
+Running GEMLI for dataset key: junker  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/junker_z5_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_junker_50_permutations.csv 
+Original dataset dimensions: 6191 cells x 21063 columns
+Subsampled dataset dimensions: 1500 cells x 21063 columns
+Significant genes after filtering: 2663 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_junker_1500cells_iter2.csv 
+>>> junker, iteration 3
+Running GEMLI for dataset key: junker  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/junker_z5_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_junker_50_permutations.csv 
+Original dataset dimensions: 6191 cells x 21063 columns
+Subsampled dataset dimensions: 1500 cells x 21063 columns
+Significant genes after filtering: 2663 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_junker_1500cells_iter3.csv 
+>>> junker, iteration 4
+Running GEMLI for dataset key: junker  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/junker_z5_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_junker_50_permutations.csv 
+Original dataset dimensions: 6191 cells x 21063 columns
+Subsampled dataset dimensions: 1500 cells x 21063 columns
+Significant genes after filtering: 2663 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_junker_1500cells_iter4.csv 
+>>> junker, iteration 5
+Running GEMLI for dataset key: junker  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/junker_z5_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_junker_50_permutations.csv 
+Original dataset dimensions: 6191 cells x 21063 columns
+Subsampled dataset dimensions: 1500 cells x 21063 columns
+Significant genes after filtering: 2663 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_junker_1500cells_iter5.csv 
+================ Dataset: knoblich_day16_1 ================
+>>> knoblich_day16_1, iteration 1
+Running GEMLI for dataset key: knoblich_day16_1  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_1_50_permutations.csv 
+Original dataset dimensions: 5695 cells x 29316 columns
+Subsampled dataset dimensions: 1500 cells x 29316 columns
+Significant genes after filtering: 2952 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_1_1500cells_iter1.csv 
+>>> knoblich_day16_1, iteration 2
+Running GEMLI for dataset key: knoblich_day16_1  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_1_50_permutations.csv 
+Original dataset dimensions: 5695 cells x 29316 columns
+Subsampled dataset dimensions: 1500 cells x 29316 columns
+Significant genes after filtering: 2952 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_1_1500cells_iter2.csv 
+>>> knoblich_day16_1, iteration 3
+Running GEMLI for dataset key: knoblich_day16_1  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_1_50_permutations.csv 
+Original dataset dimensions: 5695 cells x 29316 columns
+Subsampled dataset dimensions: 1500 cells x 29316 columns
+Significant genes after filtering: 2952 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_1_1500cells_iter3.csv 
+>>> knoblich_day16_1, iteration 4
+Running GEMLI for dataset key: knoblich_day16_1  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_1_50_permutations.csv 
+Original dataset dimensions: 5695 cells x 29316 columns
+Subsampled dataset dimensions: 1500 cells x 29316 columns
+Significant genes after filtering: 2952 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_1_1500cells_iter4.csv 
+>>> knoblich_day16_1, iteration 5
+Running GEMLI for dataset key: knoblich_day16_1  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_1_50_permutations.csv 
+Original dataset dimensions: 5695 cells x 29316 columns
+Subsampled dataset dimensions: 1500 cells x 29316 columns
+Significant genes after filtering: 2952 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_1_1500cells_iter5.csv 
+================ Dataset: knoblich_day16_2 ================
+>>> knoblich_day16_2, iteration 1
+Running GEMLI for dataset key: knoblich_day16_2  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_2_50_permutations.csv 
+Original dataset dimensions: 8730 cells x 28919 columns
+Subsampled dataset dimensions: 1500 cells x 28919 columns
+Significant genes after filtering: 2542 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_2_1500cells_iter1.csv 
+>>> knoblich_day16_2, iteration 2
+Running GEMLI for dataset key: knoblich_day16_2  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_2_50_permutations.csv 
+Original dataset dimensions: 8730 cells x 28919 columns
+Subsampled dataset dimensions: 1500 cells x 28919 columns
+Significant genes after filtering: 2542 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_2_1500cells_iter2.csv 
+>>> knoblich_day16_2, iteration 3
+Running GEMLI for dataset key: knoblich_day16_2  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_2_50_permutations.csv 
+Original dataset dimensions: 8730 cells x 28919 columns
+Subsampled dataset dimensions: 1500 cells x 28919 columns
+Significant genes after filtering: 2542 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_2_1500cells_iter3.csv 
+>>> knoblich_day16_2, iteration 4
+Running GEMLI for dataset key: knoblich_day16_2  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_2_50_permutations.csv 
+Original dataset dimensions: 8730 cells x 28919 columns
+Subsampled dataset dimensions: 1500 cells x 28919 columns
+Significant genes after filtering: 2542 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_2_1500cells_iter4.csv 
+>>> knoblich_day16_2, iteration 5
+Running GEMLI for dataset key: knoblich_day16_2  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day16_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day16_2_50_permutations.csv 
+Original dataset dimensions: 8730 cells x 28919 columns
+Subsampled dataset dimensions: 1500 cells x 28919 columns
+Significant genes after filtering: 2542 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day16_2_1500cells_iter5.csv 
+================ Dataset: knoblich_day42_1 ================
+>>> knoblich_day42_1, iteration 1
+Running GEMLI for dataset key: knoblich_day42_1  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_1_50_permutations.csv 
+Original dataset dimensions: 9533 cells x 29000 columns
+Subsampled dataset dimensions: 1500 cells x 29000 columns
+Significant genes after filtering: 2903 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_1_1500cells_iter1.csv 
+>>> knoblich_day42_1, iteration 2
+Running GEMLI for dataset key: knoblich_day42_1  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_1_50_permutations.csv 
+Original dataset dimensions: 9533 cells x 29000 columns
+Subsampled dataset dimensions: 1500 cells x 29000 columns
+Significant genes after filtering: 2903 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_1_1500cells_iter2.csv 
+>>> knoblich_day42_1, iteration 3
+Running GEMLI for dataset key: knoblich_day42_1  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_1_50_permutations.csv 
+Original dataset dimensions: 9533 cells x 29000 columns
+Subsampled dataset dimensions: 1500 cells x 29000 columns
+Significant genes after filtering: 2903 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_1_1500cells_iter3.csv 
+>>> knoblich_day42_1, iteration 4
+Running GEMLI for dataset key: knoblich_day42_1  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_1_50_permutations.csv 
+Original dataset dimensions: 9533 cells x 29000 columns
+Subsampled dataset dimensions: 1500 cells x 29000 columns
+Significant genes after filtering: 2903 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_1_1500cells_iter4.csv 
+>>> knoblich_day42_1, iteration 5
+Running GEMLI for dataset key: knoblich_day42_1  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_1.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_1_50_permutations.csv 
+Original dataset dimensions: 9533 cells x 29000 columns
+Subsampled dataset dimensions: 1500 cells x 29000 columns
+Significant genes after filtering: 2903 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_1_1500cells_iter5.csv 
+================ Dataset: knoblich_day42_2 ================
+>>> knoblich_day42_2, iteration 1
+Running GEMLI for dataset key: knoblich_day42_2  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_2_50_permutations.csv 
+Original dataset dimensions: 8109 cells x 29049 columns
+Subsampled dataset dimensions: 1500 cells x 29049 columns
+Significant genes after filtering: 6521 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_2_1500cells_iter1.csv 
+>>> knoblich_day42_2, iteration 2
+Running GEMLI for dataset key: knoblich_day42_2  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_2_50_permutations.csv 
+Original dataset dimensions: 8109 cells x 29049 columns
+Subsampled dataset dimensions: 1500 cells x 29049 columns
+Significant genes after filtering: 6521 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_2_1500cells_iter2.csv 
+>>> knoblich_day42_2, iteration 3
+Running GEMLI for dataset key: knoblich_day42_2  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_2_50_permutations.csv 
+Original dataset dimensions: 8109 cells x 29049 columns
+Subsampled dataset dimensions: 1500 cells x 29049 columns
+Significant genes after filtering: 6521 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_2_1500cells_iter3.csv 
+>>> knoblich_day42_2, iteration 4
+Running GEMLI for dataset key: knoblich_day42_2  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_2_50_permutations.csv 
+Original dataset dimensions: 8109 cells x 29049 columns
+Subsampled dataset dimensions: 1500 cells x 29049 columns
+Significant genes after filtering: 6521 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_2_1500cells_iter4.csv 
+>>> knoblich_day42_2, iteration 5
+Running GEMLI for dataset key: knoblich_day42_2  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/knoblich_day42_2.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_knoblich_day42_2_50_permutations.csv 
+Original dataset dimensions: 8109 cells x 29049 columns
+Subsampled dataset dimensions: 1500 cells x 29049 columns
+Significant genes after filtering: 6521 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_knoblich_day42_2_1500cells_iter5.csv 
+================ Dataset: treutlein ================
+>>> treutlein, iteration 1
+Running GEMLI for dataset key: treutlein  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/treutlein_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_treutlein_50_permutations.csv 
+Original dataset dimensions: 16506 cells x 20857 columns
+Subsampled dataset dimensions: 1500 cells x 20857 columns
+Significant genes after filtering: 13164 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_treutlein_1500cells_iter1.csv 
+>>> treutlein, iteration 2
+Running GEMLI for dataset key: treutlein  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/treutlein_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_treutlein_50_permutations.csv 
+Original dataset dimensions: 16506 cells x 20857 columns
+Subsampled dataset dimensions: 1500 cells x 20857 columns
+Significant genes after filtering: 13164 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_treutlein_1500cells_iter2.csv 
+>>> treutlein, iteration 3
+Running GEMLI for dataset key: treutlein  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/treutlein_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_treutlein_50_permutations.csv 
+Original dataset dimensions: 16506 cells x 20857 columns
+Subsampled dataset dimensions: 1500 cells x 20857 columns
+Significant genes after filtering: 13164 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_treutlein_1500cells_iter3.csv 
+>>> treutlein, iteration 4
+Running GEMLI for dataset key: treutlein  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/treutlein_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_treutlein_50_permutations.csv 
+Original dataset dimensions: 16506 cells x 20857 columns
+Subsampled dataset dimensions: 1500 cells x 20857 columns
+Significant genes after filtering: 13164 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_treutlein_1500cells_iter4.csv 
+>>> treutlein, iteration 5
+Running GEMLI for dataset key: treutlein  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/treutlein_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_treutlein_50_permutations.csv 
+Original dataset dimensions: 16506 cells x 20857 columns
+Subsampled dataset dimensions: 1500 cells x 20857 columns
+Significant genes after filtering: 13164 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_treutlein_1500cells_iter5.csv 
+================ Dataset: weinreb ================
+>>> weinreb, iteration 1
+Running GEMLI for dataset key: weinreb  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/weinreb_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_weinreb_50_permutations.csv 
+Original dataset dimensions: 49302 cells x 22637 columns
+Subsampled dataset dimensions: 1500 cells x 22637 columns
+Significant genes after filtering: 9011 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_weinreb_1500cells_iter1.csv 
+>>> weinreb, iteration 2
+Running GEMLI for dataset key: weinreb  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/weinreb_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_weinreb_50_permutations.csv 
+Original dataset dimensions: 49302 cells x 22637 columns
+Subsampled dataset dimensions: 1500 cells x 22637 columns
+Significant genes after filtering: 9011 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_weinreb_1500cells_iter2.csv 
+>>> weinreb, iteration 3
+Running GEMLI for dataset key: weinreb  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/weinreb_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_weinreb_50_permutations.csv 
+Original dataset dimensions: 49302 cells x 22637 columns
+Subsampled dataset dimensions: 1500 cells x 22637 columns
+Significant genes after filtering: 9011 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_weinreb_1500cells_iter3.csv 
+>>> weinreb, iteration 4
+Running GEMLI for dataset key: weinreb  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/weinreb_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_weinreb_50_permutations.csv 
+Original dataset dimensions: 49302 cells x 22637 columns
+Subsampled dataset dimensions: 1500 cells x 22637 columns
+Significant genes after filtering: 9011 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_weinreb_1500cells_iter4.csv 
+>>> weinreb, iteration 5
+Running GEMLI for dataset key: weinreb  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/weinreb_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_weinreb_50_permutations.csv 
+Original dataset dimensions: 49302 cells x 22637 columns
+Subsampled dataset dimensions: 1500 cells x 22637 columns
+Significant genes after filtering: 9011 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_weinreb_1500cells_iter5.csv 
+================ Dataset: you1 ================
+>>> you1, iteration 1
+Running GEMLI for dataset key: you1  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage1_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you1_50_permutations.csv 
+Original dataset dimensions: 18650 cells x 25350 columns
+Subsampled dataset dimensions: 1500 cells x 25350 columns
+Significant genes after filtering: 14433 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you1_1500cells_iter1.csv 
+>>> you1, iteration 2
+Running GEMLI for dataset key: you1  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage1_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you1_50_permutations.csv 
+Original dataset dimensions: 18650 cells x 25350 columns
+Subsampled dataset dimensions: 1500 cells x 25350 columns
+Significant genes after filtering: 14433 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you1_1500cells_iter2.csv 
+>>> you1, iteration 3
+Running GEMLI for dataset key: you1  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage1_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you1_50_permutations.csv 
+Original dataset dimensions: 18650 cells x 25350 columns
+Subsampled dataset dimensions: 1500 cells x 25350 columns
+Significant genes after filtering: 14433 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you1_1500cells_iter3.csv 
+>>> you1, iteration 4
+Running GEMLI for dataset key: you1  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage1_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you1_50_permutations.csv 
+Original dataset dimensions: 18650 cells x 25350 columns
+Subsampled dataset dimensions: 1500 cells x 25350 columns
+Significant genes after filtering: 14433 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you1_1500cells_iter4.csv 
+>>> you1, iteration 5
+Running GEMLI for dataset key: you1  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage1_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you1_50_permutations.csv 
+Original dataset dimensions: 18650 cells x 25350 columns
+Subsampled dataset dimensions: 1500 cells x 25350 columns
+Significant genes after filtering: 14433 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you1_1500cells_iter5.csv 
+================ Dataset: you2 ================
+>>> you2, iteration 1
+Running GEMLI for dataset key: you2  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage2_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you2_50_permutations.csv 
+Original dataset dimensions: 42640 cells x 28410 columns
+Subsampled dataset dimensions: 1500 cells x 28410 columns
+Significant genes after filtering: 17869 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you2_1500cells_iter1.csv 
+>>> you2, iteration 2
+Running GEMLI for dataset key: you2  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage2_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you2_50_permutations.csv 
+Original dataset dimensions: 42640 cells x 28410 columns
+Subsampled dataset dimensions: 1500 cells x 28410 columns
+Significant genes after filtering: 17869 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you2_1500cells_iter2.csv 
+>>> you2, iteration 3
+Running GEMLI for dataset key: you2  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage2_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you2_50_permutations.csv 
+Original dataset dimensions: 42640 cells x 28410 columns
+Subsampled dataset dimensions: 1500 cells x 28410 columns
+Significant genes after filtering: 17869 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you2_1500cells_iter3.csv 
+>>> you2, iteration 4
+Running GEMLI for dataset key: you2  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage2_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you2_50_permutations.csv 
+Original dataset dimensions: 42640 cells x 28410 columns
+Subsampled dataset dimensions: 1500 cells x 28410 columns
+Significant genes after filtering: 17869 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you2_1500cells_iter4.csv 
+>>> you2, iteration 5
+Running GEMLI for dataset key: you2  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage2_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you2_50_permutations.csv 
+Original dataset dimensions: 42640 cells x 28410 columns
+Subsampled dataset dimensions: 1500 cells x 28410 columns
+Significant genes after filtering: 17869 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you2_1500cells_iter5.csv 
+================ Dataset: you3 ================
+>>> you3, iteration 1
+Running GEMLI for dataset key: you3  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage3_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you3_50_permutations.csv 
+Original dataset dimensions: 23883 cells x 25991 columns
+Subsampled dataset dimensions: 1500 cells x 25991 columns
+Significant genes after filtering: 11380 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you3_1500cells_iter1.csv 
+>>> you3, iteration 2
+Running GEMLI for dataset key: you3  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage3_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you3_50_permutations.csv 
+Original dataset dimensions: 23883 cells x 25991 columns
+Subsampled dataset dimensions: 1500 cells x 25991 columns
+Significant genes after filtering: 11380 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you3_1500cells_iter2.csv 
+>>> you3, iteration 3
+Running GEMLI for dataset key: you3  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage3_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you3_50_permutations.csv 
+Original dataset dimensions: 23883 cells x 25991 columns
+Subsampled dataset dimensions: 1500 cells x 25991 columns
+Significant genes after filtering: 11380 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you3_1500cells_iter3.csv 
+>>> you3, iteration 4
+Running GEMLI for dataset key: you3  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage3_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you3_50_permutations.csv 
+Original dataset dimensions: 23883 cells x 25991 columns
+Subsampled dataset dimensions: 1500 cells x 25991 columns
+Significant genes after filtering: 11380 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you3_1500cells_iter4.csv 
+>>> you3, iteration 5
+Running GEMLI for dataset key: you3  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage3_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you3_50_permutations.csv 
+Original dataset dimensions: 23883 cells x 25991 columns
+Subsampled dataset dimensions: 1500 cells x 25991 columns
+Significant genes after filtering: 11380 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you3_1500cells_iter5.csv 
+================ Dataset: you4 ================
+>>> you4, iteration 1
+Running GEMLI for dataset key: you4  iteration: 1 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage4_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you4_50_permutations.csv 
+Original dataset dimensions: 2864 cells x 23287 columns
+Subsampled dataset dimensions: 1500 cells x 23287 columns
+Significant genes after filtering: 9247 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you4_1500cells_iter1.csv 
+>>> you4, iteration 2
+Running GEMLI for dataset key: you4  iteration: 2 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage4_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you4_50_permutations.csv 
+Original dataset dimensions: 2864 cells x 23287 columns
+Subsampled dataset dimensions: 1500 cells x 23287 columns
+Significant genes after filtering: 9247 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you4_1500cells_iter2.csv 
+>>> you4, iteration 3
+Running GEMLI for dataset key: you4  iteration: 3 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage4_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you4_50_permutations.csv 
+Original dataset dimensions: 2864 cells x 23287 columns
+Subsampled dataset dimensions: 1500 cells x 23287 columns
+Significant genes after filtering: 9247 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you4_1500cells_iter3.csv 
+>>> you4, iteration 4
+Running GEMLI for dataset key: you4  iteration: 4 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage4_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you4_50_permutations.csv 
+Original dataset dimensions: 2864 cells x 23287 columns
+Subsampled dataset dimensions: 1500 cells x 23287 columns
+Significant genes after filtering: 9247 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you4_1500cells_iter4.csv 
+>>> you4, iteration 5
+Running GEMLI for dataset key: you4  iteration: 5 
+Dataset path: /home/proth/GEMLI/Nov26_redo/Datasets/you_stage4_barcode_all_genes.pkl 
+MI path     : /home/proth/GEMLI/Nov26_redo/MIscores/MI_label_entropy_you4_50_permutations.csv 
+Original dataset dimensions: 2864 cells x 23287 columns
+Subsampled dataset dimensions: 1500 cells x 23287 columns
+Significant genes after filtering: 9247 
+Using top 1300 MI genes.
+Saved GEMLI testing results to:
+ results_sign_genes/GEMLI_MI_top1300_you4_1500cells_iter5.csv 

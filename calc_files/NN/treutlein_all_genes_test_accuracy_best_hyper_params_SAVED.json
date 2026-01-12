@@ -1,0 +1,89 @@
+{
+    "hyperparameters": {
+        "batch_size": 256,
+        "activation_function": "elu",
+        "hidden_units": 457,
+        "dropout_rate": 0.5762114096877748,
+        "num_layers": 1,
+        "num_epochs": 16,
+        "learning_rate": 0.0011856736127306773,
+        "weight_decay": 0.0054077048290265125
+    },
+    "data_overview": {
+        "experiment": 76,
+        "number_of_genes": 20856,
+        "number_of_barcodes": 23,
+        "minimal_barcode_threshold_per_class": 95,
+        "cells": 5259
+    },
+    "training_run": {
+        "epoch_1": {
+            "training_loss": 2.1345924072795444,
+            "validation_loss": 1.4578591585159302
+        },
+        "epoch_2": {
+            "training_loss": 0.9392213390933143,
+            "validation_loss": 0.9762512445449829
+        },
+        "epoch_3": {
+            "training_loss": 0.5213238911496269,
+            "validation_loss": 0.8162817358970642
+        },
+        "epoch_4": {
+            "training_loss": 0.34931957887278664,
+            "validation_loss": 0.7779042720794678
+        },
+        "epoch_5": {
+            "training_loss": 0.2414220240381029,
+            "validation_loss": 0.7017399072647095
+        },
+        "epoch_6": {
+            "training_loss": 0.22532988008525637,
+            "validation_loss": 0.7214949131011963
+        },
+        "epoch_7": {
+            "training_loss": 0.19040940784745747,
+            "validation_loss": 0.7887718081474304
+        },
+        "epoch_8": {
+            "training_loss": 0.15472668533523878,
+            "validation_loss": 0.5963397026062012
+        },
+        "epoch_9": {
+            "training_loss": 0.1265273214214378,
+            "validation_loss": 0.5901473760604858
+        },
+        "epoch_10": {
+            "training_loss": 0.12129749067955548,
+            "validation_loss": 0.7232966423034668
+        },
+        "epoch_11": {
+            "training_loss": 0.18330897142489752,
+            "validation_loss": 0.8725636005401611
+        },
+        "epoch_12": {
+            "training_loss": 0.11143954553537899,
+            "validation_loss": 0.755655825138092
+        },
+        "epoch_13": {
+            "training_loss": 0.058842708046237625,
+            "validation_loss": 0.6084933876991272
+        },
+        "epoch_14": {
+            "training_loss": 0.040927120587892,
+            "validation_loss": 0.5510972738265991
+        },
+        "epoch_15": {
+            "training_loss": 0.03807909828093317,
+            "validation_loss": 0.5523536205291748
+        },
+        "epoch_16": {
+            "training_loss": 0.03919792651302285,
+            "validation_loss": 0.5405319929122925
+        }
+    },
+    "training_accuracy": 100.0,
+    "validation_accuracy": 85.5,
+    "test_accuracy": 78.0,
+    "test_loss": 0.6542458534240723
+}
