@@ -16,12 +16,12 @@ These notebooks were used to generate the figures and analyses presented in the 
 ### `analysis/GEMLI/`
 Includes scripts for running **GEMLI**, the gene-expression memory lineage inference tool, used for comparison and validation of lineage-informative genes.
 
-### `cal_files/MI`
+### `calc_files/MI`
 Contains Python and bash scripts for:
 - Mutual Information (MI) calculation including permutation testing for significance estimation  
 - Normalization of MI values across datasets and conditions
 
-### `cal_files/NN`
+### `calc_files/NN`
 Contains scripts for neural network hyperparameter search and  xAI (LIME and Integrated Gradients) analysis. 
 
 ---
