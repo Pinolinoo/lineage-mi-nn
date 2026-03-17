@@ -21,7 +21,7 @@ from pathlib import Path
 dataset_name = sys.argv[1]
 n_combos = int(sys.argv[2]) if len(sys.argv) > 2 else 150
 
-SAVE_DIR = "./mi_group_mt_and_random_sets_results"
+SAVE_DIR = "./mi_group_mt_and_random_sets_results_more_combos"
 os.makedirs(SAVE_DIR, exist_ok=True)
 
 base_dir = Path(

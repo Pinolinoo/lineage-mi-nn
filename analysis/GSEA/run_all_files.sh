@@ -4,8 +4,8 @@
 GSEA_JAR="/Users/proth/Downloads/GSEA_4.4.0/gsea-cli.sh"  # Adjust this path if needed
 GMT_FILE_HUMAN="/Users/proth/Downloads/GSEA_4.4.0/c5.all.v2024.1.Hs.symbols.gmt"  # Adjust this path if needed
 GMT_FILE_MOUSE="/Users/proth/Downloads/GSEA_4.4.0/m5.all.v2024.1.Mm.symbols.gmt"  # Adjust this path if needed
-RANKFILES_DIR="rnk_files_IG"  # Path to your folder containing .rnk files
-OUTPUT_DIR="gsea_results_IG_all_above_zero"  # Where to save the GSEA results
+RANKFILES_DIR="rnk_files_ig"  # Path to your folder containing .rnk files
+OUTPUT_DIR="gsea_results_ig"  # Where to save the GSEA results
 
 # Create output directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"

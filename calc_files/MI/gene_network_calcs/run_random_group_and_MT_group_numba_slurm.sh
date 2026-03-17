@@ -8,11 +8,11 @@ JOB_NAME="range_gene_sets"
 
 CONDA_ENV="/home/proth/miniconda3/envs/TOSICA"
 PYTHON_BIN="$CONDA_ENV/bin/python"
-N_COMBOS=150
+N_COMBOS=1000
 
 #DATASETS=("you1" "you2" "you3" "you4" "knoblich_day16_1" "knoblich_day16_2" "knoblich_day42_1" "knoblich_day42_2" "treutlein" "weinreb" "junker")
 
-DATASETS=("you2")
+DATASETS=("treutlein")
 
 mkdir -p logs
 
