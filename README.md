@@ -1,7 +1,7 @@
 # Mutual Information Analysis of Lineage Memory
 
 This repository accompanies the paper  
-**"Mutual information analysis reveals metabolic genes as carriers of lineage memory"**.
+**"Mutual information identifies metabolic genes as conserved carriers of lineage memory"**.
 
 It contains all scripts and notebooks used for data analysis, MI calculation, and GEMLI benchmarking.
 
@@ -36,7 +36,7 @@ Contains scripts for neural network hyperparameter search and  xAI (LIME and Int
 ## Citation
 If you use this code, please cite our paper:
 
-> Roth et al., *Mutual information analysis reveals metabolic genes as carriers of lineage memory*, 2025.
+> Roth et al., *Mutual information identifies metabolic genes as conserved carriers of lineage memory*, 2026.
 
 ---
 
