@@ -23,7 +23,7 @@ cell_names <- colnames(matrix)
 
 # exporting files for python one by one of the above 
 
-writeMM(sparse_matrix, file = "/gene_signature/mutual_information_approach/November_25_ReDo/raw_datasets/youYou et al Data/you_stageI_raw.mtx")
-write.csv(gene_names, file = "/gene_signature/mutual_information_approach/November_25_ReDo/raw_datasets/youyou_stageI_raw_genenames.csv", row.names = TRUE)
-write.csv(cell_names, file = "/gene_signature/mutual_information_approach/November_25_ReDo/raw_datasets/youyou_stageI_raw_cellnames.csv", row.names = TRUE)
+writeMM(sparse_matrix, file = "/gene_signature/mutual_information_approach/November_25_ReDo/raw_datasets/You et al Data/you_stageI_raw.mtx")
+write.csv(gene_names, file = "/gene_signature/mutual_information_approach/November_25_ReDo/raw_datasets/You et al Data/you_stageI_raw_genenames.csv", row.names = TRUE)
+write.csv(cell_names, file = "/gene_signature/mutual_information_approach/November_25_ReDo/raw_datasets/You et al Data/you_stageI_raw_cellnames.csv", row.names = TRUE)
 

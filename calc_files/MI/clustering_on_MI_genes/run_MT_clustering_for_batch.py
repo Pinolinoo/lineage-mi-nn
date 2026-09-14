@@ -187,7 +187,7 @@ def main():
     df = pd.DataFrame(data)
 
     # Label gene sets
-    gene_set = ["200 random genes"] * 20 + ["HVG genes", "Top 200 MI genes"]
+    gene_set = ["200 random genes"] * 200 + ["HVG genes", "Top 200 MI genes"]
     df["gene_set"] = gene_set
 
     print(df)

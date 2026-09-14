@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=gene_clustering
-#SBATCH --time=60:00:00
+#SBATCH --time=120:00:00
 #SBATCH --mem=40G
 #SBATCH --cpus-per-task=1
 #SBATCH --output=gene_clustering_%j.out
