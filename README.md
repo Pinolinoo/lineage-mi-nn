@@ -24,6 +24,13 @@ Contains Python and bash scripts for:
 ### `calc_files/NN`
 Contains scripts for neural network hyperparameter search and  xAI (LIME and Integrated Gradients) analysis. 
 
+### `YAML files`
+These files document the software dependencies and versions used for the analyses performed in this study.
+
+Neural network and explainable AI (xAI) analyses, including LIME and Integrated Gradients, were performed using the Conda environment defined in environment_NN.yaml. Environment specifications for mutual information calculations and related analyses are stored in environment_MI.yaml.
+
+For the R-based scATAC-seq and GEMLI analyses aswell as GSEA, the required packages and their versions are listed in the corresponding yaml files.
+
 ---
 
 ## Notes
