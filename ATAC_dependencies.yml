@@ -1,0 +1,14 @@
+# Software version manifest for the ATAC analysis
+analysis: ATAC peak annotation and visualization
+description: Versioned dependency manifest, not an executable Conda environment specification.
+platform: macOS Sonoma 14.1.1 (Apple Silicon, aarch64)
+R: 4.3.2
+Bioconductor: '3.18'
+dependencies:
+  Bioconductor:
+    ChIPseeker: 1.38.0
+    TxDb.Mmusculus.UCSC.mm10.knownGene: 3.10.0
+  CRAN:
+    dplyr: 1.1.4
+    readr: 2.1.5
+    ggplot2: 3.5.1

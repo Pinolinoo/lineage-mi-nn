@@ -1,0 +1,31 @@
+# Software and reference gene-set versions for GSEA analyses.
+# Documentation metadata, NOT a conda environment specification.
+gsea:
+  software: GSEA Desktop / CLI
+  version: 4.4.0
+  mode: GseaPreranked
+  launcher: gsea-cli.sh
+  runtime:
+    type: Java
+    version: '24'
+    distribution: Oracle Java SE
+    runtime_build: 24+36-3646
+    vm: Java HotSpot 64-Bit Server VM
+  settings:
+    plot_top_x: 20
+    other_parameters: GSEA CLI defaults (not explicitly set in submitted shell script)
+  input:
+    format: rnk
+    directory: rnk_files_ig
+  output:
+    directory: gsea_results_ig / gsea_results_mi
+  gene_sets:
+    database: MSigDB
+    human:
+      file: c5.all.v2024.1.Hs.symbols.gmt
+      version: '2024.1'
+      applied_to: all datasets except filenames containing weinreb (ZFL genes were converted to human homologs)
+    mouse:
+      file: m5.all.v2024.1.Mm.symbols.gmt
+      version: '2024.1'
+      applied_to: filenames containing weinreb
