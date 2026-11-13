@@ -7,14 +7,11 @@ runtime:
 packages:
   - name: GEMLI
     version: "0.1.0"
-    location: /home/proth/R/x86_64-pc-linux-gnu-library/4.3/GEMLI
     version_source: original_user_R_library
     built_under_R: 4.3.3
   - name: reticulate
     version: 1.39.0
-    location: /home/proth/R/x86_64-pc-linux-gnu-library/4.3/reticulate
   - name: Matrix
     version: 1.7-5
-    location: /usr/lib/R/library/Matrix
     version_source: current_system_R_library
 
